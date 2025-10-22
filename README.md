@@ -1,6 +1,6 @@
 # Gerber-to-G-Code-Conversion
 # Aim
-To convert the Gerber File into G-Code using Copper CAM.
+To convert the Gerber File into G-Code using Copper CAM
 # Software required
 Copper CAM
 # Procedure
